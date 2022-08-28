@@ -1,0 +1,1 @@
+# explorer-stg5-jogo-adivinhacao
