@@ -1,11 +1,9 @@
 # Jogo da Adivinhação
 
-[![](https://raw.githubusercontent.com/dipimentel/explorer-stg3-space-cream/main/print-space-cream-responsivo.png)](https://dipimentel.github.io/explorer-stg3-space-cream/)
+[![](https://raw.githubusercontent.com/dipimentel/explorer-stg5-jogo-adivinhacao/main/print-jogo-adivinhacao.png)](https://dipimentel.github.io/explorer-stg5-jogo-adivinhacao/)
 
 ## Sobre o projeto
-Este projeto foi desenvolvido como desafio proposto no curso [**Explorer**](https://www.rocketseat.com.br/explorer), da **Rocketseat**, com o objetivo de colocar em prática os conceitos trabalhados em aula.
-
-Neste projeto a proposta foi desenvolver uma página totalmente responsiva para uma "sorveteria", colocando em prática conceitos de CSS grid layout, transformação, transição e animação, além de utilizar variáveis e filtros. O layout teve como base um template disponibilizado no figma.
+Este foi um exercício desenvolvido dentro do stage 5, no curso [**Explorer**](https://www.rocketseat.com.br/explorer), da **Rocketseat**, com o objetivo de apresentar e colocar em prática conceitos básicos de JavaScript (variáveis, funções, condicionais e controle de fluxo) além de iniciar o uso do DOM para manipular o documento HTML (recebendo e modificando valores, alterando estilos e utilizando eventos).
 
 &nbsp;
 >**Acesse o projeto:** <https://dipimentel.github.io/explorer-stg5-jogo-adivinhacao/>
